@@ -1,78 +1,67 @@
-# Hi, I'm Garv Shah 👋
+# Hi, I’m Garv Shah 
 
-🚀 **3rd Year Engineering Student | Computer Science & Engineering (CSE) | Full Stack Developer**
+🚀 **Full Stack Developer | Product Lead (CRM SaaS) | Final Year CSE Student**
 
-I'm currently pursuing my **Bachelor of Engineering in Computer Science and Engineering** from **LJ Institute of Engineering and Technology, Ahmedabad**. Over the past few years, I've explored various technologies and built my skillset in different domains, including:
+I’m currently pursuing my **B.E. in Computer Science & Engineering** at **LJ Institute of Engineering and Technology, Ahmedabad** (2022–2026), and alongside academics, I’ve been actively building **production-grade SaaS applications**.
 
----
-
-## 🛠 Languages & Tools:
-
-- **Programming Languages:**
-  - Core Java (since 1st year)
-  - Python (since 3rd semester)
-
-- **Web Development:**
-  - Full Stack Development (MERN Stack)
-
-- **Databases:**
-  - MySQL
-  - PostgreSQL
-  - MongoDB
-  - XAMPP Server
-
-- **Java Technologies:**
-  - JDBC
-
-- **Other Tools & Technologies:**
-  - Git & GitHub
-  - WebRTC (for peer-to-peer video calling)
-  - Firebase
-  - WebSockets
+I love taking ideas from scratch and turning them into scalable products — from **designing frontend experiences** in React/Next.js to **architecting backend systems** with Node.js, Express, and PostgreSQL.
 
 ---
 
-## 🔭 What I’ve Learned:
+## 🛠 Skills & Tools
 
-- Developed a strong understanding of full-stack applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
-- Built and deployed various web applications.
-- Hands-on experience in developing real-time applications using **WebSockets** and **WebRTC**.
-
----
-
-## 🌟 Projects:
-
-### **EDUIQUIZZ – Quiz Hosting Platform** 
-**Tech Stack**: React, Django, Render  
-Created a platform for hosting online quizzes with real-time student-teacher interaction. Implemented dynamic UI with time-based logic to manage quiz access and result generation.  
-[View Project](https://eduquizz-frontend.onrender.com/)
+* **Frontend:** React, Next.js, Redux, Tailwind, React Native
+* **Backend:** Node.js, Express, Django
+* **Databases:** PostgreSQL, MySQL, MongoDB 
+* **Other:** WebSockets, WebRTC, Firebase, Git/GitHub
 
 ---
 
-### **Connectify – Peer-to-Peer Video Calling App** 
-**Tech Stack**: React, WebRTC, Firebase  
-Built a real-time video calling app using WebRTC and Firebase for secure peer-to-peer connections. Implemented signaling through WebSockets.
+## 💼 Experience
+
+### **Full-Stack Developer – SNB Innovations (May 2025 – Present)**
+
+**Product Lead & Developer for Real Estate SaaS CRM**
+
+* Tech Stack: Next.js, Express.js, MongoDB , React Native
+* Implemented hierarchical role-based access control (Superadmin, Admin, Employee).
+* Built property assignment/unassignment workflows for leads.
+* Developed secure APIs for lead tracking and management.
+* Integrated WhatsApp APIs for real-time client communication.
+* Worked on 99acres integration for property listings,leads fetching and sync.
+* Added META integrations (Facebook/Instagram lead capture).
+* Connected with various third-party tools to extend CRM functionality.
+* Optimized for performance and scalability in a real-world production environment.
+* Successfully deployed and used by 30+ real estate companies.
+
+### **MERN Developer – Excelsior Technologies (Dec 2024 – May 2025)**
+
+* Developed REST APIs with Express/Node.
+* Built real-time features with **WebRTC & WebSockets**.
+* Optimized MySQL queries using stored procedures & triggers, reducing backend logic by 30%.
 
 ---
 
-### **Housing Website**  
-**Tech Stack**: HTML, CSS, Bootstrap, JavaScript  
-Developed a responsive housing website using HTML, CSS, and Bootstrap with form validation in JavaScript.  
-[View Project](https://housingwebsitebygarv.netlify.app/)
+## 🌟 Projects
+
+* **Doctor CRM** – A CRM for doctors & clinics with multi-level access control, patient management, WhatsApp integration, and lead matching logic. (Next.js, Prisma, PostgreSQL)
+* **EDUIQUIZZ** – Online quiz platform with real-time grading. (React, Django) [Live Demo](https://eduquizz-frontend.onrender.com/)
+* **Connectify** – Peer-to-peer video calling app. (React, WebRTC, Firebase, Node)
+* **BookSwap** – A full-stack app for book sharing. (MERN) [GitHub](https://github.com/Gap0507/BookSwap)
+* Plus: RBAC System, Hope for All NGO Website, Teja Gummies Homepage, Oracle Enterprise Website.
 
 ---
 
-### **Travel Agency Website**  
-**Tech Stack**: HTML, CSS, Bootstrap, JavaScript  
-Created a responsive travel agency website with form validation, designed using HTML, CSS, and Bootstrap.  
-[View Project](https://662653cf08d8e214b67c41e8--dynamic-nougat-72e326.netlify.app/)
+## 🎯 Interests
 
-Feel free to explore my repositories for more projects!
+* Full Stack SaaS Development
+* Automation (Playwright, Puppeteer, AI integrations)
+* Scalable backend architecture
 
 ---
 
-## 🤝 Let's Connect:
+## 🤝 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/garv-shah-341294244)
-
-Feel free to check out my repositories and reach out for any collaboration or project discussions!
+* 🌐 [Portfolio](https://garvdev.netlify.app/)
+* 💼 [LinkedIn](https://linkedin.com/in/garv-shah-341294244)
+* 💻 [GitHub](https://github.com/Gap0507)
